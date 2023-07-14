@@ -1,0 +1,19 @@
+{
+  "name": "testapp1",
+  "version": "1.0.0",
+  "description": "first demo project in node-js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StreetGUY32/node-js.git"
+  },
+  "author": "StreetGUY32",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StreetGUY32/node-js/issues"
+  },
+  "homepage": "https://github.com/StreetGUY32/node-js#readme"
+}
